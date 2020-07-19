@@ -1,6 +1,7 @@
 ---
 layout: default
-description: C++
+title: C++
+description: Сокращение кода на acmp.ru
 ---
 
 ## [Сокращение кода на C++ для acmp.ru](https://btnlq.github.io/acmp/cpp)
